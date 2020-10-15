@@ -1,1 +1,1 @@
-some text
+This line is from second feature branch
